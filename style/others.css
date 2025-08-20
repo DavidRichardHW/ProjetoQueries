@@ -43,7 +43,7 @@
     html, body{height: 100vh;}
     body{
         font-size: 2em;
-        background-size: auto;
+        background-size: cover;
         background-image: url(../image/back-pc.jpg);
     }
     img{padding: 12vh 0px;}
