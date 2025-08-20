@@ -16,7 +16,7 @@ html, body{
     position: relative;
 }
 body{
-    background: black url(../../image/back-phone.jpg) no-repeat center;
+    background: black url(../image/back-phone.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
